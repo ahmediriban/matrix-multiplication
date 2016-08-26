@@ -45,6 +45,8 @@ def merge(A,B,C,D):
 
 
 """
+
+Thank to Ahmed J. Iriban
     Helper Functions
 """
 def simpleMultiply(m1,m2):
